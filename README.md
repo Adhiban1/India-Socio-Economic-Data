@@ -1,5 +1,7 @@
 # India Socio Economic Data
 
+![images/dataset-cover.jpg](images/dataset-cover.jpg)
+
 [Kaggle](https://www.kaggle.com/datasets/webaccess/all-census-data)
 
 # About Dataset
